@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Open PDF Files</string>
+    <string name="opening_pdf">Open PDF</string>
+    <string name="open_in_webview">Open In Web View</string>
+    <string name="open_from_assets">Open From Assets</string>
+    <string name="open_from_storage">Open From Storage</string>
+    <string name="open_from_internet">Open From Internet</string>
+</resources>
